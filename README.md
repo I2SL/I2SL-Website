@@ -1,4 +1,4 @@
-![GitHub last commit](https://nicodeshler.github.io/I2SL-Website/)
+![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
