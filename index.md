@@ -11,7 +11,7 @@ Our work spans
   include link.html
   type="github"
   icon=""
-  text="See our lab's GitHub Page"
+  text="I2SL GitHub"
   link="greenelab/lab-website-template"
   style="button"
 %}
