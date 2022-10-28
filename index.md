@@ -2,16 +2,16 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Wyant College of Optical Sciences University of Arizona
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+We are a computational imaging lab focused on developing sensing systems that perform optimally with respect to task-based information measures.
+Our work spans
 
 {%
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
+  text="See our lab's GitHub Page"
   link="greenelab/lab-website-template"
   style="button"
 %}
