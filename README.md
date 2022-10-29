@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img height="200" src="https://github.com/NicoDeshler/I2SL-Website/blob/main/favicons/share_thumbnail.png?raw=true" alt="Intelligent Imaging and Design Lab">
+<img height="200" src="https://github.com/NicoDeshler/I2SL-Website/blob/main/favicons/share-thumbnail.png?raw=true" alt="Intelligent Imaging and Design Lab">
 </p>
 
 
