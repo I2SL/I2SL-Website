@@ -3,19 +3,19 @@
 # site properties and page defaults
 title: Intelligent Imaging and Sensing Lab
 description: We are a computational imaging and sensing lab in the College of Optical Sciences at the University of Arizona.
-logo: images/logo.svg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /I2SL-Website
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
+  email: ashoka@arizona.edu
+  google-scholar: Amit Ashok
   github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+#  twitter: YourLabHandle
+#  instagram: YourLabHandle
+#  youtube: YourLabChannel
 
 ### advanced settings
 
