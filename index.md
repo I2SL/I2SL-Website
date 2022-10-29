@@ -2,20 +2,26 @@
 title: Home
 ---
 
-# Wyant College of Optical Sciences University of Arizona
+# Optics and Algorithms
 
-We are a computational imaging lab focused on developing sensing systems that perform optimally with respect to task-based information measures. Our projects involve the joint design of optical devices and algorithms.
+Welcome to our lab page!
+
+We are a computational imaging lab in the [Wyant College of Optical Sciences](https://www.optics.arizona.edu/) at the University of Arizona. Our goal is to develop and characterize new imaging modalities that perform optimally with respect to task-specific information measures. Our current research efforts include x-ray imaging for materials classification, event-based imaging, and quantum-limited superresolution imaging.
 
 {%
   include link.html
   type="github"
   icon=""
   text="I2SL GitHub"
-  link="https://github.com/NicoDeshler/I2SL-Website"
+  link="greenelab/lab-website-template"
   style="button"
 %}
 
 {:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/banner.jpg" %}
 
 {% include section.html %}
 
