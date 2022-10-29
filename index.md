@@ -11,7 +11,7 @@ We are a computational imaging lab focused on developing sensing systems that pe
   type="github"
   icon=""
   text="I2SL GitHub"
-  link="greenelab/lab-website-template"
+  link="https://github.com/NicoDeshler/I2SL-Website"
   style="button"
 %}
 

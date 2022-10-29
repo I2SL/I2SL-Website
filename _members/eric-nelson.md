@@ -2,7 +2,7 @@
 name: Eric Nelson
 image: images/eric_nelson.jpg
 description: Researcher
-role: masters
+role: phd
 aliases:
 links:
   email: ericnelson@arizona.edu
