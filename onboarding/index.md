@@ -14,6 +14,7 @@ our lab uses in an effort to organize our efforts and uphold the principles of [
 
 ## Getting Started
 - Getting added to group slack
+- Pull the [I<sup>2</sup>SL Onboarding Repository](https://github.com/ashokamit/Onboarding)
 - Create a GitHub account and ask Prof Ashok to make you a collaborator on your project
 
 ## Documentation
@@ -23,5 +24,3 @@ our lab uses in an effort to organize our efforts and uphold the principles of [
 ## Workflow
 - Git and version control
 - Maintaining project webpage
-
-## 
