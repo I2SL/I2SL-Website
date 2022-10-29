@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-## News
+## Socials
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 

@@ -4,7 +4,7 @@ title: Home
 
 # Wyant College of Optical Sciences University of Arizona
 
-We are a computational imaging lab focused on developing sensing systems that perform optimally with respect to task-based information measures. Our projects involve the joint design of optical devices and algorithms. 
+We are a computational imaging lab focused on developing sensing systems that perform optimally with respect to task-based information measures. Our projects involve the joint design of optical devices and algorithms.
 
 {%
   include link.html
@@ -14,19 +14,8 @@ We are a computational imaging lab focused on developing sensing systems that pe
   link="greenelab/lab-website-template"
   style="button"
 %}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+
 {:.center}
-
-{% include section.html full=true %}
-
-{% include banner.html image="images/banner.jpg" %}
 
 {% include section.html %}
 
