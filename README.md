@@ -1,8 +1,8 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
+![Github last commit](https://img.shields.io/badge/last_commit-october-brightgreen)
 
-<h1 align="center">Intelligent Imaging and Sensing Lab <br></br> Website Repository</h1>
+
 <p align="center">
-<img height="200" src="https://github.com/NicoDeshler/I2SL-Website/blob/main/favicons/share-thumbnail.png?raw=true" alt="Intelligent Imaging and Design Lab">
+<img height="200" src="https://github.com/NicoDeshler/I2SL-Website/blob/main/favicons/favicon.png?raw=true" alt="Intelligent Imaging and Design Lab">
 </p>
 
 ## Documentation
@@ -25,9 +25,7 @@
 
 [❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
 
+[🖼️ Gallery](https://github.com/greenelab/lab-website-template/wiki/Gallery)
 
-**based off the [Greene Lab's Website Template](https://github.com/greenelab/lab-website-template)**
-
-## Gallery
-
-[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
+<br></br>
+*Generated from the [Greene Lab's Website Template](https://github.com/greenelab/lab-website-template)*
