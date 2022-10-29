@@ -1,7 +1,7 @@
 ---
 name: Tammie Brown
 image: images/tammie_brown.jpg
-description: Lab Coordinator
+description: Coordinator
 role: admin
 aliases:
 links:
