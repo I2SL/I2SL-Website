@@ -1,7 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
 
-<h1 align="center">Intelligent Imaging and Sensing Lab</h1>
-<h2 align="center"> Website Repository</h2>
+<h1 align="center">Intelligent Imaging and Sensing Lab <br></br> Website Repository</h1>
 <p align="center">
 <img height="200" src="https://github.com/NicoDeshler/I2SL-Website/blob/main/favicons/share-thumbnail.png?raw=true" alt="Intelligent Imaging and Design Lab">
 </p>
