@@ -5,15 +5,6 @@
 <img height="200" src="https://github.com/NicoDeshler/I2SL-Website/blob/main/favicons/share-thumbnail.png?raw=true" alt="Intelligent Imaging and Design Lab">
 </p>
 
-
-
-
-# GreeneLab Website Template
-
-## Gallery
-
-[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
-
 ## Documentation
 
 [▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
@@ -33,3 +24,10 @@
 [💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
 
 [❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
+
+
+**based off the [Greene Lab's Website Template](https://github.com/greenelab/lab-website-template)**
+
+## Gallery
+
+[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
