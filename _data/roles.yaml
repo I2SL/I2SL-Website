@@ -7,8 +7,12 @@ postdoc:
   text: Postdoctoral Researcher
 
 phd:
-  icon: fas fa-graduation-cap
+  icon: fas fa-brain
   text: PhD Student
+
+masters:
+  icon: fas fa-graduation-cap
+  text: Graduate Student
 
 undergrad:
   icon: fas fa-user-graduate
@@ -18,10 +22,10 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
-mascot:
-  icon: fas fa-dog
-  text: Mascot
-
 admin:
   icon: fas fa-heart
   text: Admnistrator
+
+mascot:
+  icon: fas fa-dog
+  text: Mascot
