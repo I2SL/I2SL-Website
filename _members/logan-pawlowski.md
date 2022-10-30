@@ -3,7 +3,7 @@ name: Logan Pawlowski
 image: images/logan-pawlowski.jpg
 description: Researcher
 role: undergrad
-group: 
+status: current 
 links:
   email: loganpawlowski@arizona.edu
 ---

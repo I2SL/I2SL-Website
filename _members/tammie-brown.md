@@ -3,7 +3,7 @@ name: Tammie Brown
 image: images/tammie_brown.jpg
 description: Coordinator
 role: admin
-group: 
+status: current
 links:
   email: tbrown@arizona.edu
 ---

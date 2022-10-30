@@ -3,7 +3,7 @@ name: Jacob Trzaska
 image: images/jacob_trzaska.jpg
 description: Researcher
 role: phd
-group: 
+status: current 
 links:
   email: jtrzaska@arizona.edu
 ---

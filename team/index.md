@@ -15,52 +15,45 @@ Meet our group! Here are the people that make this all possible.
   include list.html
   data="members"
   component="portrait"
-  filters="group:"
-%}
-
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi, group:"
+  filters="role: pi, status: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd, group:"
+  filters="role: phd, status: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: masters, group:"
+  filters="role: masters, status: current"
 %}
 
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad, group:"
+  filters="role: undergrad, status: current"
 %}
 
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: admin, group:"
+  filters="role: admin, status: current"
 %}
 
 {% include section.html %}
 
+## Former Members
 Here are our former lab members! Check out the exciting work they've gone off to do!
 
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="group: alum"
+  filters="status: former"
 %}
 
 {% include section.html %}
