@@ -34,8 +34,9 @@ Welcome to our lab! We are excited to have you. Please send the following items 
 ## Documentation
 - Project code hosted in Github project Repository
 - Project data is hosted in ... FIXME
-- Digital lab notebooks updated weekly and hosted in a project wiki webpage
-- Paper Pre-prints are written in Jekyll Markdown language and are hosted on project github repo (link in README.md)
+- Digital lab notebooks updated weekly and hosted in project wikis
+- Project and lab website maintenance
+- Pre-prints
 
 ## Workflow
 - Version control on project github repositories
