@@ -13,7 +13,7 @@ We are a computational imaging lab in the [Wyant College of Optical Sciences](ht
   include link.html
   type="github"
   icon=""
-  text="I2SL GitHub"
+  text="I<sup>2</sup>SL GitHub"
   link="greenelab/lab-website-template"
   style="button"
 %}
@@ -44,7 +44,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/CQI_flowchart.png"
   link="research"
   title="Our Research"
   text=text
