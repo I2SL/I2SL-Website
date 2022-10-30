@@ -36,7 +36,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/CQI_flowchart.png"
+  image="images/research/CQI_flowchart.svg"
   link="research"
   title="Our Research"
   text=text
