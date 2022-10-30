@@ -6,7 +6,7 @@
 </p>
 
 
-This is the repository for the I<sup>2</sup>SL website led by Professor Amit Ashok in the Wyant College of Optical Sciences at the University of Arizona. The website design follows the [Greene Lab's Website Template](https://github.com/greenelab/lab-website-template). The webiste runs on Jekyll so all written content can be created in Markdown. Lab memebrs looking to make modifications to the website should refer to the documentation below.
+This is the repository for the I<sup>2</sup>SL website led by Professor Amit Ashok in the Wyant College of Optical Sciences at the University of Arizona. The website design follows the [Greene Lab's Website Template](https://github.com/greenelab/lab-website-template). Lab members looking to update the website are encouraged to refer to the documentation below.
 
 ## Documentation
 
