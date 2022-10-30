@@ -48,6 +48,7 @@ Meet our group! Here are the people that make this all possible.
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
+Here are our former lab members! Check out the exciting work they've gone off to do!
 {%
   include list.html
   data="members"
@@ -57,36 +58,12 @@ Meet our group! Here are the people that make this all possible.
 
 {% include section.html %}
 
-## Join Us
-
-### Post-doctoral Researcher (x1)
-A description of this position.
-- Qualification Requirement
-- etc.
-
-### Graduate Student (x2)
-A description of this position.
-- Qualification Requirement
-- etc.
-
-### Undergraduate Student (x3)
-A description of this position.
-- Qualification Requirement
-- etc.
-
-
-## How to Apply
-- Send interest email with CV and letters of rec
--
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html icon="fas fa-hands-helping" text="Join the Team" link="join" style="button" %}
 {:.center}
-
-{% include section.html %}
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by funding from the following organization.
 {:.center}
 
 {%
