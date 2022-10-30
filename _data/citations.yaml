@@ -12,8 +12,8 @@
   publisher: IEEE Journal of Selected Topics in Signal Processing
   date: '2022-01-01'
   link: https://doi.org/gq5p7j
-  image: https://github.com/NicoDeshler/I2SL-Website/blob/main/images/citations/constellation_personick.JPG
+  image: https://raw.githubusercontent.com/NicoDeshler/I2SL-Website/main/images/citations/constellation_personick.JPG
   tags:
   - superresolution
   - bayesian inference
-  _cache: b812669ad9582947b71f084b15188b894aa09e5a5413d3eff809d136f7d71ed0
+  _cache: 125ef362e3627a6877adcda3c97a6da8a417449b884d8875ce28dfa045e8e041
