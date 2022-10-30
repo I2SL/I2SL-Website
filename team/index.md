@@ -27,26 +27,57 @@ Meet our group! Here are the people that make this all possible.
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: masters"
 %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: admin"
+%}
+
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="group: alum"
+%}
 
 {% include section.html %}
 
-## Join
+## Join Us
 
-#### Post Dogtoral Researcher
+### Post-doctoral Researcher (x1)
+A description of this position.
+- Qualification Requirement
+- etc.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Graduate Student (x2)
+A description of this position.
+- Qualification Requirement
+- etc.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+### Undergraduate Student (x3)
+A description of this position.
+- Qualification Requirement
+- etc.
+
+
+## How to Apply
+- Send interest email with CV and letters of rec
+-
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
