@@ -1,6 +1,6 @@
 ---
 name: Amit Ashok
-image: images/amit_ashok.jpg
+image: images/headshots/amit_ashok.jpg
 description: Professor
 role: pi
 status: current

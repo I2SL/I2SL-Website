@@ -1,6 +1,6 @@
 ---
 name: Kwan Kit-Lee
-image: images/kwan-kit-lee.jpg
+image: images/headshots/kwan-kit-lee.jpg
 description: Researcher
 role: phd
 status: former

@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 5
-  tooltip: updates from the lab
+  tooltip: Updates from the lab
 ---
 
 # <i class="fas fa-feather-alt"></i>News

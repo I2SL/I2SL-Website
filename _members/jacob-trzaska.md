@@ -1,9 +1,9 @@
 ---
 name: Jacob Trzaska
-image: images/jacob_trzaska.jpg
+image: images/headshots/jacob_trzaska.jpg
 description: Researcher
 role: phd
-status: current 
+status: current
 links:
   email: jtrzaska@arizona.edu
 ---

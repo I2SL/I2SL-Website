@@ -17,6 +17,14 @@ Meet our group! Here are the people that make this all possible.
   component="portrait"
   filters="role: pi, status: current"
 %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: admin, status: current"
+%}
+
 {%
   include list.html
   data="members"
@@ -37,12 +45,6 @@ Meet our group! Here are the people that make this all possible.
   filters="role: undergrad, status: current"
 %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: admin, status: current"
-%}
 
 {% include section.html %}
 

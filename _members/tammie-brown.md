@@ -1,6 +1,6 @@
 ---
 name: Tammie Brown
-image: images/tammie_brown.jpg
+image: images/headshots/tammie_brown.jpg
 description: Coordinator
 role: admin
 status: current

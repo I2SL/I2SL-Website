@@ -1,9 +1,9 @@
 ---
 name: Trevor Schlack
-image: images/trevor-schlack.jpg
+image: images/headshots/trevor-schlack.jpg
 description: Researcher
 role: masters
-status: current 
+status: current
 links:
   email: schlackt@arizona.edu
 ---

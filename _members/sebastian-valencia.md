@@ -1,9 +1,9 @@
 ---
 name: Sebastian Valencia
-image: images/sebastian-valencia.jpg
+image: images/headshots/sebastian-valencia.jpg
 description: Researcher
 role: masters
-status: current 
+status: current
 links:
   email: sebastianv@arizona.edu
 ---

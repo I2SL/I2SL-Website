@@ -2,7 +2,7 @@
 title: Onboarding
 nav:
   order: 4
-  tooltip: information for new members
+  tooltip: Information for new members
 ---
 
 # <i class="fas fa-stairs"></i>Onboarding
