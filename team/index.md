@@ -15,6 +15,14 @@ Meet our group! Here are the people that make this all possible.
   include list.html
   data="members"
   component="portrait"
+  filters="group:"
+%}
+
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: pi, group:"
 %}
 {%

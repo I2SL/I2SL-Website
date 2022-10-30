@@ -3,6 +3,7 @@ name: Nico Deshler
 image: images/nico_deshler.jpg
 description: Researcher
 role: phd
+group: 
 aliases:
   - Nicolas Deshler
   - Nicolas James Deshler
