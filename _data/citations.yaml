@@ -65,3 +65,16 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+- id: arXiv:2202.09980
+  title: Quantum Multi-Parameter Adaptive Bayesian Estimation and Application to Super-Resolution
+    Imaging
+  authors:
+  - Kwan Kit Lee
+  - Christos Gagatsos
+  - Saikat Guha
+  - Amit Ashok
+  publisher: arXiv
+  date: '2022-06-10'
+  link: https://arxiv.org/abs/2202.09980
+  image: images/citations/constellation_personick.jpg
+  _cache: 0d60600340e97a891e550eaa81239099876c2377b7fa9f9e29e09bfe5129850d
