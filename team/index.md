@@ -44,10 +44,6 @@ Meet our group! Here are the people that make this all possible.
   filters="role: admin"
 %}
 
-{:.center}
-
-{% include section.html background="images/banner.jpg" dark=true%}
-
 Here are our former lab members! Check out the exciting work they've gone off to do!
 {%
   include list.html
