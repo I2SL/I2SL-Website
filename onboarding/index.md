@@ -7,9 +7,9 @@ nav:
 
 # <i class="fas fa-stairs"></i>Onboarding
 
-Our research ethos is built around our documentation standards (for code and data), our workflows, and our commitment to ethical science. This page aims to introduce some of the standards and conventions used in our lab which we have designed to organize our projects, facilitate communication, and uphold the principles of [open science](https://en.wikipedia.org/wiki/Open_science).  
+Our research ethos is built around our documentation standards (for code and data), our workflow conventions, and our commitment to ethical science. This page aims to introduce some of the standards and conventions used in our lab which we have designed to organize our projects, facilitate communication, and uphold the principles of [open science](https://en.wikipedia.org/wiki/Open_science).  
 
-There is inevitably a learning curve associated with the practices employed in our lab. However, in the long-run the intent is to provide our members with a robust toolkit for conducting quality science.
+There is inevitably a learning curve associated with the practices employed in our lab. However, in the long-run the intent is to provide our members with a robust toolkit for conducting good science and effectively communicating their discoveries.
 
 # New Members
 Welcome to our lab! We are excited to have you. Please send the following items to ndeshler@arizona.edu:
@@ -28,8 +28,8 @@ Welcome to our lab! We are excited to have you. Please send the following items 
 # Onboarding Material Summary
 
 ## Setup and Installations
-- Git Bash and terminal commands
--
+- Git
+- Conda
 
 ## Documentation
 - Project code hosted in Github project Repository

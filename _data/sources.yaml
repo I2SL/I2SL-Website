@@ -1,5 +1,18 @@
 - id: doi:10.1109/jstsp.2022.3214774
   image: https://raw.githubusercontent.com/NicoDeshler/I2SL-Website/main/images/citations/constellation_personick.JPG
+  project:
   tags:
     - superresolution
+    - quantum estimation
     - bayesian inference
+
+
+- id: doi:10.1103/PhysRevA.99.033847
+  image: https://raw.githubusercontent.com/NicoDeshler/I2SL-Website/main/images/citations/line_emitter.png
+  tags:
+    - superresolution
+    - quantum estimation
+
+- id: doi:10.1109/CVPR.2016.55
+
+- id: doi:10.1109/ICIP.2014.7025976
