@@ -13,7 +13,49 @@
   date: '2022-01-01'
   link: https://doi.org/gq5p7j
   image: https://raw.githubusercontent.com/NicoDeshler/I2SL-Website/main/images/citations/constellation_personick.JPG
+  project: null
   tags:
   - superresolution
+  - quantum estimation
   - bayesian inference
-  _cache: 125ef362e3627a6877adcda3c97a6da8a417449b884d8875ce28dfa045e8e041
+  _cache: 59baea082a1b451b97cde8dc7433e1d14d3390ff46535497346819ca1f707f4f
+- id: doi:10.1103/PhysRevA.99.033847
+  title: Attaining the quantum limit of superresolution in imaging an object's length
+    via predetection spatial-mode sorting
+  authors:
+  - Zachary Dutton
+  - Ronan Kerviche
+  - Amit Ashok
+  - Saikat Guha
+  publisher: Physical Review A
+  date: '2019-03-25'
+  link: https://doi.org/gfxjg4
+  image: https://raw.githubusercontent.com/NicoDeshler/I2SL-Website/main/images/citations/line_emitter.png
+  tags:
+  - superresolution
+  - quantum estimation
+  _cache: 893137b9a04b5fbef54bc2888b01bdf8cff89245bcf6534394455c58e9995662
+- id: doi:10.1109/CVPR.2016.55
+  title: 'ReconNet: Non-Iterative Reconstruction of Images from Compressively Sensed
+    Measurements'
+  authors:
+  - Kuldeep Kulkarni
+  - Suhas Lohit
+  - Pavan Turaga
+  - Ronan Kerviche
+  - Amit Ashok
+  publisher: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2016-06-01'
+  link: https://doi.org/gfrm23
+  _cache: 4d4e95788c3f852f9c35c2d975c74ab3bafe7762253d24410480462479e31ff7
+- id: doi:10.1109/ICIP.2014.7025976
+  title: Image compression based on task-specific information
+  authors:
+  - Lingling Pu
+  - Michael W. Marcellin
+  - Ali Bilgin
+  - Ami Ashok
+  publisher: 2014 IEEE International Conference on Image Processing (ICIP)
+  date: '2014-10-01'
+  link: https://doi.org/gq5qw4
+  _cache: 55448d201e7c8ca6e4811c5040c0cc92253e0dc2b300c04fb4e040512feba093
