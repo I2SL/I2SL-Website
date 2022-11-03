@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href = "https://nicodeshler.github.io/I2SL-Website/">
+<a href = "https://i2sl.github.io/I2SL-Website/">
 <img height="200" src="https://github.com/NicoDeshler/I2SL-Website/blob/main/favicons/share-thumbnail.png?raw=true" alt="Intelligent Imaging and Design Lab">
 </a>
 </p>
