@@ -3,10 +3,9 @@
 
 <p align="center">
 <a href = "https://i2sl.github.io/I2SL-Website/">
-<img height="200" src="https://github.com/NicoDeshler/I2SL-Website/blob/main/favicons/share-thumbnail.png?raw=true" alt="Intelligent Imaging and Design Lab">
+<img height="200" src="https://github.com/I2SL/I2SL-Website/blob/main/favicons/share-thumbnail.png?raw=true" alt="Intelligent Imaging and Design Lab">
 </a>
 </p>
-
 
 This is the repository for the I<sup>2</sup>SL website led by Professor Amit Ashok in the Wyant College of Optical Sciences at the University of Arizona. The website design follows the [Greene Lab's Website Template](https://github.com/greenelab/lab-website-template). Lab members looking to update the website are encouraged to refer to the documentation below.
 
