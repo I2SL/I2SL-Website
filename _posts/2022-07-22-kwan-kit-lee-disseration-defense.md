@@ -7,8 +7,12 @@ tags:
 author: Amit Ashok
 member: amit-ashok
 ---
-Kwan defended his dissertation **Quantum-Inspired Optical Super-Resolution Imaging with Modal Measurements**.
-He has completed his PhD and is off to work at KLA Tencor.
+# Quantum-Inspired Optical Super-Resolution Imaging with Modal Measurements
+
+### Committee:
+- Dr. Amit Ashok (Chair)
+- Dr. Saikat Guha
+- Dr. Matt Kupinski
 
 ### Abstract:
 One of the goals of a traditional imaging system is to acquire image of the scene with the highest-resolution possible to infer relevant details or features. However, the traditional imaging approach employs a digital focal plane to capture the optical image at or near the diffraction limit followed by electronic-domain post-processing, which is known to be sub-optimal for many tasks (e.g., classification). Using tools from quantum information theory, recent analysis has shown that the traditional imaging approach is sub-optimal for resolving sub-Rayleigh features in the information-theoretic sense. In this work, we employ the framework of classical/quantum information theory to understand the problem of optical resolution from a different perspective.
