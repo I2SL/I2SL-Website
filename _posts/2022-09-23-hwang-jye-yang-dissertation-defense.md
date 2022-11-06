@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Hwang-Jye for defending his thesis!
+title: Congratulations to Hwang-Jye for defending his dissertation!
 tags: security, machine learning, x-ray diffraction
 author: Amit Ashok
 member: amit-ashok

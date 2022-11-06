@@ -7,25 +7,43 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Wyant College of Optical Sciences (OSC)](https://www.optics.arizona.edu/) at the University of Arizona.
+We are located on the 4th floor of the Meinel Optical Sciences Building..
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="ashoka@arizona.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="ashoka@arizona.edu"
+  style="button"
+%}
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="ashoka@arizona.edu"
+  tooltip=""
+  link="ashoka@arizona.edu"
+  style="button"
+%}
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="tbrown@arizona.edu"
+  tooltip=""
+  link="tbrown@arizona.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(520) 621-4479"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-520-621-4479"
   style="button"
 %}
 {%
@@ -34,7 +52,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Meinel+Optical+Sciences+Building,+Tucson,+AZ+85719/@32.2313634,-110.9472046,17z/data=!3m1!4b1!4m5!3m4!1s0x86d671abc9c9534d:0x76f79b21e54e1db5!8m2!3d32.2313634!4d-110.9472046"
   style="button"
 %}
 {:.center}
@@ -43,23 +61,6 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
-{:.center}
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+1630 E University Blvd,
+Tucson, AZ 85719
+USA
