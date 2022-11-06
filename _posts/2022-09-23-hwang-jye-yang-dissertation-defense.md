@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Hwang-Jye for defending his thesis!
-tags: security,
+tags: security, machine learning, x-ray diffraction
 author: Amit Ashok
 member: amit-ashok
 ---
