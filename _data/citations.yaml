@@ -12,13 +12,13 @@
   publisher: IEEE Journal of Selected Topics in Signal Processing
   date: '2022-01-01'
   link: https://doi.org/gq5p7j
-  image: https://raw.githubusercontent.com/NicoDeshler/I2SL-Website/main/images/citations/constellation_personick.JPG
+  image: https://raw.githubusercontent.com/I2SL/I2SL-Website/main/images/citations/constellation_personick.JPG
   project: null
   tags:
   - superresolution
   - quantum estimation
   - bayesian inference
-  _cache: 59baea082a1b451b97cde8dc7433e1d14d3390ff46535497346819ca1f707f4f
+  _cache: fbf727f977254abb981879c3b1a0a0b8435915cb25bcf4c2b01f53405bf5a36e
 - id: doi:10.1103/PhysRevA.99.033847
   title: Attaining the quantum limit of superresolution in imaging an object's length
     via predetection spatial-mode sorting
@@ -30,11 +30,11 @@
   publisher: Physical Review A
   date: '2019-03-25'
   link: https://doi.org/gfxjg4
-  image: https://raw.githubusercontent.com/NicoDeshler/I2SL-Website/main/images/citations/line_emitter.png
+  image: https://raw.githubusercontent.com/I2SL/I2SL-Website/main/images/citations/line_emitter.png
   tags:
   - superresolution
   - quantum estimation
-  _cache: 893137b9a04b5fbef54bc2888b01bdf8cff89245bcf6534394455c58e9995662
+  _cache: abcc3102e97e0757676447a55ce4743162e3716fb8edb4f048ca9d73a3cf553b
 - id: doi:10.1109/CVPR.2016.55
   title: 'ReconNet: Non-Iterative Reconstruction of Images from Compressively Sensed
     Measurements'
