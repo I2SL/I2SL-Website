@@ -74,7 +74,7 @@ Our work is made possible by funding from the following organizatiosn.
 
   image1="images/funders/DARPA.png"
   link1="https://www.darpa.mil/"
-  tooltip1="Cool Foundation"
+  tooltip1="Defense Advacned Research Projects Agency"
 
   image2="images/funders/NSF.svg"
   link2="https://www.nsf.gov/"
