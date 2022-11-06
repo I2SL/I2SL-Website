@@ -1,5 +1,5 @@
 - id: doi:10.1109/jstsp.2022.3214774
-  image: https://raw.githubusercontent.com/NicoDeshler/I2SL-Website/main/images/citations/constellation_personick.JPG
+  image: https://raw.githubusercontent.com/I2SL/I2SL-Website/main/images/citations/constellation_personick.JPG
   project:
   tags:
     - superresolution
@@ -8,7 +8,7 @@
 
 
 - id: doi:10.1103/PhysRevA.99.033847
-  image: https://raw.githubusercontent.com/NicoDeshler/I2SL-Website/main/images/citations/line_emitter.png
+  image: https://raw.githubusercontent.com/I2SL/I2SL-Website/main/images/citations/line_emitter.png
   tags:
     - superresolution
     - quantum estimation
