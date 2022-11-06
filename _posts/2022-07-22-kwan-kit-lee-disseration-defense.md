@@ -9,12 +9,7 @@ member: amit-ashok
 ---
 # Quantum-Inspired Optical Super-Resolution Imaging with Modal Measurements
 
-### Committee:
-- Dr. Amit Ashok (Chair)
-- Dr. Saikat Guha
-- Dr. Matt Kupinski
-
-### Abstract:
+### Abstract
 One of the goals of a traditional imaging system is to acquire image of the scene with the highest-resolution possible to infer relevant details or features. However, the traditional imaging approach employs a digital focal plane to capture the optical image at or near the diffraction limit followed by electronic-domain post-processing, which is known to be sub-optimal for many tasks (e.g., classification). Using tools from quantum information theory, recent analysis has shown that the traditional imaging approach is sub-optimal for resolving sub-Rayleigh features in the information-theoretic sense. In this work, we employ the framework of classical/quantum information theory to understand the problem of optical resolution from a different perspective.
 
 
@@ -25,3 +20,8 @@ Using an information-theoretic approach we analyze the resolution of partially c
 
 
 We also develop an adaptive measurement scheme to resolve point sources with sub-Rayleigh separation in a constellation. By leveraging the quantum information theory, instead uses the HG mode statically, we design a modal basis in each adaptive measurement step as the modal projection basis. We compare this technique with traditional imaging followed by different image estimation algorithms such as deconvolution with k-mean and the state-of-art convolution neural network (CNN) under different metrics and demonstrate optical super-resolution in the deep sub-Rayleigh regime.
+
+**Committee:**
+- Dr. Amit Ashok (Chair)
+- Dr. Saikat Guha
+- Dr. Matt Kupinski
