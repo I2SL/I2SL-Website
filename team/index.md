@@ -65,19 +65,19 @@ Here are our former lab members! Check out the exciting work they've gone off to
 
 ## Funding
 
-Our work is made possible by funding from the following organization.
+Our work is made possible by funding from the following organizatiosn.
 {:.center}
 
 {%
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
+  image1="images/funders/DARPA.png"
+  link1="https://www.darpa.mil/"
   tooltip1="Cool Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
+  image2="images/funders/NSF.svg"
+  link2="https://www.nsf.gov/"
   tooltip2="Cool Institute"
 
   image3="images/photo.jpg"

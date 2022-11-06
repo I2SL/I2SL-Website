@@ -23,15 +23,6 @@ We are located on the 4th floor of the Meinel Optical Sciences Building..
   include link.html
   type="email"
   icon=""
-  text="ashoka@arizona.edu"
-  tooltip=""
-  link="ashoka@arizona.edu"
-  style="button"
-%}
-{%
-  include link.html
-  type="email"
-  icon=""
   text="tbrown@arizona.edu"
   tooltip=""
   link="tbrown@arizona.edu"
