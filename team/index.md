@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 Meet our group! Here are the people that make this all possible.
-
+{:.center}
 {% include section.html %}
 
 {%
@@ -50,7 +50,7 @@ Meet our group! Here are the people that make this all possible.
 
 ## Former Members
 Here are our former lab members! Check out the exciting work they've gone off to do!
-
+{:.center}
 {%
   include list.html
   data="members"
@@ -65,18 +65,27 @@ Here are our former lab members! Check out the exciting work they've gone off to
 
 ## Funding
 
-Our work is made possible by funding from the following organizatiosn.
+Our work is made possible by funding from the following organizations.
 {:.center}
 
-{%
-  include gallery.html
-  style="square"
 
-  image1="images/funders/DARPA.png"
-  link1="https://www.darpa.mil/"
-  tooltip1="Defense Advacned Research Projects Agency"
-
-  image2="images/funders/NSF.svg"
-  link2="https://www.nsf.gov/"
-  tooltip2="National Sciences Foundation"
+{% capture col1content %}
+{% include figure.html
+  image="images/funders/DARPA.svg"
+  caption=""
+  link="https://www.darpa.mil/"
+  width="400px"
+  tooltip="Defense Advanced Research Projects Agency"
 %}
+{% endcapture %}
+{% capture col2content %}
+{% include figure.html
+  image="images/funders/NSF.svg"
+  caption=""
+  link="https://www.nsf.gov/"
+  width="400px"
+  tooltip ="National Sciences Foundation"
+%}
+{% endcapture %}
+
+{% include two-col.html col1=col1content col2=col2content %}
