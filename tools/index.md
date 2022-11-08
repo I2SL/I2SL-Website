@@ -8,7 +8,8 @@ nav:
 # <i class="fas fa-tools"></i>Tools
 
 Our research directions generally involve the development of specialized imaging algorithms.
-Here we offer a few standalone algorithms that demo our work.
+Here we offer links to some of our github repositories where the codebase for these algorithms are stored.
+Feel free to try them out! In the future, this page will also host any datasets our lab compiles as part of our research.
 
 {% include search-info.html %}
 

@@ -9,6 +9,7 @@ nav:
 
 Meet our group! Here are the people that make this all possible.
 {:.center}
+
 {% include section.html %}
 
 {%

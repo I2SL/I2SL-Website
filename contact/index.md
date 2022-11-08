@@ -55,3 +55,4 @@ We are located on the 4th floor of the Meinel Optical Sciences Building..
 1630 E University Blvd,
 Tucson, AZ 85719
 USA
+{:.center}
