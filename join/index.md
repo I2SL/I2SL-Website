@@ -20,10 +20,8 @@ A description of this position.
 - Qualification Requirement
 - etc.
 
-
 ## How to Apply
 - Send interest email with CV and letters of rec
--
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}

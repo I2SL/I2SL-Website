@@ -17,11 +17,15 @@ In joining this lab, you commit to:
 
 
 ## Getting Started
-- Join the group Slack
-- Create a [GitHub account](https://github.com)
-- Identify a project you would like to be part of
-- Become a collaborator on your project's repository
-
+1. Join the group Slack
+2. Create a [GitHub account](https://github.com)
+3. {%
+  include link.html
+  type="github"
+  text="Identify a project"
+  link="research"
+%} you would like to work on
+4. Request invitation as a collaborator on you project's repository
 
 {%
   include link.html
