@@ -21,8 +21,8 @@ We are a computational imaging lab in the [Wyant College of Optical Sciences](ht
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research involves the joint design of optics and algorithms allowing us to process signals in the optical and electrical domain.
+Across our projects we take an information theoretic approach to our system design.
 
 {%
   include link.html
@@ -36,15 +36,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/research/CQI_flowchart.svg"
+  image="images/research_thumbnail.jpg"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The algorithms our lab has developed are available for you to try! Check out our
+project repositories and datasets.
 
 {%
   include link.html
@@ -58,7 +58,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/resources_thumbnail.jpg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -66,7 +66,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Come learn about the people doing this work!
 
 {%
   include link.html
@@ -85,6 +85,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
