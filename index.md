@@ -14,7 +14,7 @@ We are a computational imaging lab in the [Wyant College of Optical Sciences](ht
   type="github"
   icon=""
   text="I<sup>2</sup>SL GitHub"
-  link="greenelab/lab-website-template"
+  link="I2SL/I2SL-Website"
   style="button"
 %}
 
@@ -43,7 +43,7 @@ Across our projects we take an information theoretic approach to our system desi
 %}
 
 {% capture text %}
-The algorithms our lab has developed are available for anyone to try. Check out our
+The algorithms our lab has developed are publicly available. Check out our
 project repositories and datasets.
 
 {%
