@@ -1,9 +1,10 @@
 ---
 title: Congratulations to Kwan for defending his dissertation!
 tags:
-  - quantum superresolution
-  - Bayesian estimation
-  - information theory
+  - Bayesian
+  - Quantum estimation
+  - Quantum information
+  - Super Resolution
 author: Amit Ashok
 member: amit-ashok
 ---
@@ -25,3 +26,12 @@ We also develop an adaptive measurement scheme to resolve point sources with sub
 - Dr. Amit Ashok (Chair)
 - Dr. Saikat Guha
 - Dr. Matt Kupinski
+
+
+{%
+  include link.html
+  link="https://repository.arizona.edu/handle/10150/665689"
+  text="Kwan's Dissertation"
+  icon="fas fa-arrow-right"
+  flip=true
+%}

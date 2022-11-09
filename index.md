@@ -18,6 +18,9 @@ We are a computational imaging lab in the [Wyant College of Optical Sciences](ht
   style="button"
 %}
 
+
+{%  include section.html %}
+
 # Highlights
 
 {% capture text %}
