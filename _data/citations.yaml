@@ -47,7 +47,8 @@
   publisher: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2016-06-01'
   link: https://doi.org/gfrm23
-  _cache: 4d4e95788c3f852f9c35c2d975c74ab3bafe7762253d24410480462479e31ff7
+  image: https://raw.githubusercontent.com/I2SL/I2SL-Website/main/images/citations/ReconNet.JPG
+  _cache: bfb6f2b9c2522983a451d61b164cf0c387e338330c6fb00780bd45b348821ff9
 - id: doi:10.1109/ICIP.2014.7025976
   title: Image compression based on task-specific information
   authors:
