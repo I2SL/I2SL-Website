@@ -43,7 +43,7 @@ Across our projects we take an information theoretic approach to our system desi
 %}
 
 {% capture text %}
-The algorithms our lab has developed are available for you to try! Check out our
+The algorithms our lab has developed are available for anyone to try. Check out our
 project repositories and datasets.
 
 {%
@@ -59,8 +59,8 @@ project repositories and datasets.
 {%
   include feature.html
   image="images/resources_thumbnail.jpg"
-  link="resources"
-  title="Our Resources"
+  link="tools"
+  title="Our Tools"
   flip=true
   text=text
 %}
@@ -80,7 +80,7 @@ Come learn about the people doing this work!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our_team.jpg"
   link="team"
   title="Our Team"
   text=text
