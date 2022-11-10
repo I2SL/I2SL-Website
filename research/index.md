@@ -12,6 +12,7 @@ The Intelligent Imaging and Sensing Lab I<sup>2</sup>SL , under the leadership o
 More specifically, the overarching theme of our research group is to develop scalable information-theoretic approaches to quantify the fundamental limits of a particular imaging/sensing system design using physics-based system forward models and statistical scene models. We have successfully applied such information-theoretic system analysis and design principles to demonstrate significant and realizable system performance improvements for various RF/EO/IR, and X-ray imaging and sensing systems, within the framework of computational imaging. More recently, we have been also pursuing fundamental performance limits of optical imaging and sensing systems arising from the quantum description of electromagnetic fields, using tools from quantum information, estimation, and detection theory. For example, we have made contributions in the analysis of two-point source resolution and extended line source estimation problems in the sub-Rayleigh regime limited fundamentally only by the quantum optical description of light and physically realizable measurement of such light fields.
 
 {% include section.html %}
+
 # Current Projects
 ## Target-Tracking with Event-Based Sensors
 
@@ -37,6 +38,7 @@ A description of this project
 %}
 
 {% include section.html %}
+
 ## Quantum Super Resolution Imaging of Distributed Sources
 
 {% capture text %}
@@ -62,6 +64,9 @@ A description of this project
 
 # Past Projects
 ## Quantum Super Resolution Imaging of Constellations
+
+{% capture text %}
+A description of this project
 
 {%
   include link.html
