@@ -21,7 +21,8 @@ A description of this project
 
 {%
   include link.html
-  link="github"
+  type="github"
+  link="I2SL/Event-Based-Imaging"
   text="Event-Based Imaging"
   icon="fas fa-arrow-right"
   flip=true
@@ -46,7 +47,8 @@ A description of this project
 
 {%
   include link.html
-  link="github"
+  type="github"
+  link="I2SL/Compressive-Quantum-Imaging"
   text="Quantum Imaging"
   icon="fas fa-arrow-right"
   flip=true
@@ -63,14 +65,15 @@ A description of this project
 %}
 
 # Past Projects
-## Quantum Super Resolution Imaging of Constellations
+## Quantum Super Resolution Imaging of Point-Source Constellations
 
 {% capture text %}
 A description of this project
 
 {%
   include link.html
-  link="github"
+  type="github"
+  link="I2SL/Quantum-Imaging-Constellations"
   text="Quantum Imaging"
   icon="fas fa-arrow-right"
   flip=true
