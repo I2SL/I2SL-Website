@@ -1,6 +1,6 @@
 ---
 name: Eric Nelson
-image: images/headshots/eric_nelson.jpg
+image: images/headshots/eric-nelson.jpeg
 description: Researcher
 role: masters
 status: current

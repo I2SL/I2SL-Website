@@ -1,6 +1,6 @@
 ---
 name: Jacob Trzaska
-image: images/headshots/jacob_trzaska.jpg
+image: images/headshots/jacob-trzaska.jpeg
 description: Researcher
 role: phd
 status: current

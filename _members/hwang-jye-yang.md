@@ -1,6 +1,6 @@
 ---
 name: Hwang-Jye Yang
-image: images/headshots/hwang-jye-yang.jpg
+image: images/headshots/hwang-jye-yang.jpeg
 description: Researcher
 role: phd
 status: former

@@ -1,6 +1,6 @@
 ---
 name: Shu Yang
-image: images/headshots/shu_yang.jpg
+image: images/headshots/shu-yang.jpeg
 description: Professor
 role: phd
 status: former

@@ -1,6 +1,6 @@
 ---
 name: Trevor Schlack
-image: images/headshots/trevor-schlack.jpg
+image: images/headshots/trevor-schlack.jpeg
 description: Researcher
 role: masters
 status: current
