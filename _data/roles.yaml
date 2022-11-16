@@ -2,6 +2,10 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
+admin:
+  icon: fas fa-heart
+  text: Admnistrator
+
 postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
@@ -9,6 +13,10 @@ postdoc:
 phd:
   icon: fas fa-coffee
   text: PhD Student
+
+masters:
+  icon: fas fa-graduation-cap
+  text: Graduate Student
 
 undergrad:
   icon: fas fa-user-graduate
@@ -21,11 +29,3 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
-
-masters:
-  icon: fas fa-graduation-cap
-  text: Graduate Student
-
-admin:
-  icon: fas fa-heart
-  text: Admnistrator

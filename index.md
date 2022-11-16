@@ -30,20 +30,12 @@ Across our projects we take an information theoretic approach to our system desi
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="Browse our projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
 {% endcapture %}
-
-{%
-  include feature.html
-  image="images/research_thumbnail.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
 
 {% capture text %}
 The algorithms our lab has developed are publicly available. Check out our
@@ -59,14 +51,6 @@ project repositories and datasets.
 {:.center}
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/resources_thumbnail.jpg"
-  link="tools"
-  title="Our Tools"
-  flip=true
-  text=text
-%}
 
 {% capture text %}
 Come learn about the people doing this work!
@@ -80,11 +64,3 @@ Come learn about the people doing this work!
 %}
 {:.center}
 {% endcapture %}
-
-{%
-  include feature.html
-  image="images/our_team.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
