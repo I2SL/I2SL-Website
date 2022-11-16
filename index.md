@@ -14,7 +14,7 @@ We are a computational imaging lab in the [Wyant College of Optical Sciences](ht
   type="github"
   icon=""
   text="I<sup>2</sup>SL GitHub"
-  link="I2SL/I2SL-Website"
+  link="I2SL"
   style="button"
 %}
 
