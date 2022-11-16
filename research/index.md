@@ -66,7 +66,8 @@ A description of this project
 # Past Projects
 
 {% capture text %}
-We construct a Bayesian adaptive (greedy) measurement scheme for multiparameter estimation. We illustrate our proposed measurement scheme with the application of localizing a cluster of point emitters in a highly sub-Rayleigh angular field-of-view, an important problem in fluorescence microscopy and astronomy. Our algorithm translates to a multi-spatial-mode transformation prior to a photon-detection array, with electro-optic feedback to adapt the mode sorter. We show that this receiver performs superior to quantum-noise-limited focal-plane direct imaging.
+We construct a Bayesian adaptive (greedy) measurement scheme for multiparameter estimation. We illustrate our proposed measurement scheme with the application of localizing a cluster of point emitters in a highly sub-Rayleigh angular field-of-view, an important problem in fluorescence microscopy and astronomy.
+Our algorithm translates to a multi-spatial-mode transformation prior to a photon-detection array, with electro-optic feedback to adapt the mode sorter. We show that this receiver performs superior to quantum-noise-limited focal-plane direct imaging.
 {%
   include link.html
   type="github"
@@ -79,7 +80,7 @@ We construct a Bayesian adaptive (greedy) measurement scheme for multiparameter 
 
 {%
   include feature.html
-  image="images/research/constellation_personick.jpg"
+  image="images/research/constellation_personick.JPG"
   link="research"
   title="Constellation Quantum Superresolution Imaging"
   text=text
