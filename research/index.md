@@ -16,7 +16,9 @@ More specifically, the overarching theme of our research group is to develop sca
 # Current Projects
 
 {% capture text %}
-A description of this project
+Natural scenes are often sparse in a wavelet basis. We employ a multi-parameter adaptive Bayesian measurement strategy to estimate the wavelet coefficients of sub-rayleigh features with imposed sparsity priors.
+Our algorithm exercises an electro-optical feedback loop wherein we sort the optical field into a set of orthogonal spatial modes and subsequently count the number of photons detected in each mode.
+At each adaptation our algorithm supplies a spatial modal basis that minimizes the joint mean-square-error of all the estimation parameters.
 
 {%
   include link.html
@@ -62,11 +64,9 @@ A description of this project
 {% include section.html %}
 
 # Past Projects
-## Quantum Super Resolution Imaging of Point-Source Constellations
 
 {% capture text %}
-A description of this project
-
+We construct a Bayesian adaptive (greedy) measurement scheme for multiparameter estimation. We illustrate our proposed measurement scheme with the application of localizing a cluster of point emitters in a highly sub-Rayleigh angular field-of-view, an important problem in fluorescence microscopy and astronomy. Our algorithm translates to a multi-spatial-mode transformation prior to a photon-detection array, with electro-optic feedback to adapt the mode sorter. We show that this receiver performs superior to quantum-noise-limited focal-plane direct imaging.
 {%
   include link.html
   type="github"
