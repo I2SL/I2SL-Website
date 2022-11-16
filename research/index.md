@@ -89,6 +89,8 @@ Our algorithm translates to a multi-spatial-mode transformation prior to a photo
 
 {% include section.html %}
 
+# Publications
+
 {% include search-box.html %}
 
 {% include search-info.html %}
