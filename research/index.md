@@ -14,9 +14,6 @@ More specifically, the overarching theme of our research group is to develop sca
 {% include section.html %}
 
 # Current Projects
-## Target-Tracking with Event-Based Sensors
-
-## Quantum Super Resolution Imaging of Distributed Sources
 
 {% capture text %}
 A description of this project
@@ -25,8 +22,7 @@ A description of this project
   include link.html
   type="github"
   link="I2SL/Compressive-Quantum-Imaging"
-  text="Quantum Imaging"
-  icon="fas fa-arrow-right"
+  text="Project Repository"
   flip=true
 %}
 {:.center}
@@ -36,7 +32,7 @@ A description of this project
   include feature.html
   image="images/research/CQI_flowchart.svg"
   link="research"
-  title="Our Research"
+  title="Compressive Quantum Superresolution Imaging"
   text=text
 %}
 
@@ -48,8 +44,7 @@ A description of this project
   include link.html
   type="github"
   link="I2SL/Event-Based-Imaging"
-  text="Event-Based Imaging"
-  icon="fas fa-arrow-right"
+  text="Project Repository"
   flip=true
 %}
 {:.center}
@@ -59,7 +54,7 @@ A description of this project
   include feature.html
   image="images/"
   link="research"
-  title="Our Research"
+  title="Event-Based Imaging"
   text=text
 %}
 
@@ -76,8 +71,7 @@ A description of this project
   include link.html
   type="github"
   link="I2SL/Quantum-Imaging-Constellations"
-  text="Quantum Imaging"
-  icon="fas fa-arrow-right"
+  text="Project Repository"
   flip=true
 %}
 {:.center}
@@ -87,10 +81,9 @@ A description of this project
   include feature.html
   image="images/research/constellation_personick.jpg"
   link="research"
-  title="Our Research"
+  title="Constellation Quantum Superresolution Imaging"
   text=text
 %}
-
 
 
 {% include section.html %}
