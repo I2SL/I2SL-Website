@@ -23,7 +23,9 @@ We are a computational imaging lab in the [Wyant College of Optical Sciences](ht
 
 # Highlights
 
-{% capture text %}
+
+### Our Research
+
 Our research involves the joint design of optics and algorithms allowing us to process signals in the optical and electrical domain.
 Across our projects we take an information theoretic approach to our system design.
 
@@ -35,11 +37,10 @@ Across our projects we take an information theoretic approach to our system desi
   flip=true
 %}
 {:.center}
-{% endcapture %}
 
-{% capture text %}
-The algorithms our lab has developed are publicly available. Check out our
-project repositories and datasets.
+### Our Tools
+
+The algorithms our lab has developed are publicly available. Many of them have demo configurations which you can try for yourself.
 
 {%
   include link.html
@@ -49,10 +50,10 @@ project repositories and datasets.
   flip=true
 %}
 {:.center}
-{% endcapture %}
 
 
-{% capture text %}
+### Our Team
+
 Come learn about the people doing this work!
 
 {%
@@ -63,4 +64,3 @@ Come learn about the people doing this work!
   flip=true
 %}
 {:.center}
-{% endcapture %}
