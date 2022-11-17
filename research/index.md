@@ -16,7 +16,7 @@ More specifically, the overarching theme of our research group is to develop sca
 # Current Projects
 
 {% capture text %}
-Natural scenes are often sparse in a wavelet basis. We employ a multi-parameter adaptive Bayesian measurement strategy to estimate the wavelet coefficients of sub-rayleigh features with imposed sparsity priors.
+Natural scenes are often sparse in a wavelet basis. We are employing a multi-parameter adaptive Bayesian measurement strategy to estimate the wavelet coefficients of sub-rayleigh features with imposed sparsity priors.
 Our algorithm exercises an electro-optical feedback loop wherein we sort the optical field into a set of orthogonal spatial modes and subsequently count the number of photons detected in each mode.
 At each adaptation our algorithm supplies a spatial modal basis that minimizes the joint mean-square-error of all the estimation parameters.
 
@@ -40,7 +40,8 @@ At each adaptation our algorithm supplies a spatial modal basis that minimizes t
 
 
 {% capture text %}
-A description of this project
+Event-based sensors register changes in intensity over time. Sensor readouts therefore measure the temporal derivative of the scene intensity without the computational overhead that would normally be necessary on video post-processing.
+These sensors are ideal for tracking tasks with low bandwidth and low latency constraints. We are developing information optimal object tracking algorithms for event-based sensors.
 
 {%
   include link.html
@@ -56,7 +57,7 @@ A description of this project
   include feature.html
   image="images/"
   link="research"
-  title="Event-Based Imaging"
+  title="Object Tracking with Event-Based Sensors"
   text=text
 %}
 
