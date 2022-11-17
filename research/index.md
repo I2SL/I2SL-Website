@@ -40,8 +40,8 @@ At each adaptation our algorithm supplies a spatial modal basis that minimizes t
 
 
 {% capture text %}
-Event-based sensors register changes in intensity over time. Sensor readouts therefore measure the temporal derivative of the scene intensity without the computational overhead that would normally be necessary on video post-processing.
-These sensors are ideal for tracking tasks with low bandwidth and low latency constraints. We are developing information optimal object tracking algorithms for event-based sensors.
+Event-based sensors register changes in intensity over time. Sensor readouts therefore measure the temporal derivative of the scene intensity without the need for video post-processing.
+Such features are particularly promising for tracking tasks with low bandwidth and low latency constraints. We are developing information-optimal object tracking algorithms for event-based sensors.
 
 {%
   include link.html
