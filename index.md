@@ -13,7 +13,7 @@ We are a computational imaging lab in the [Wyant College of Optical Sciences](ht
 
 %{
   include figure.html
-  image="placeholder.svg"
+  image="images/placeholder.svg"
   caption="The I2SL team"
   link="team"
   width="400px"
@@ -21,7 +21,7 @@ We are a computational imaging lab in the [Wyant College of Optical Sciences](ht
 
 {%
   include figure.html
-  image="images/group-photo.jpg"
+  image="images/placeholder.svg"
   caption="The team at our annual Christmas party, 2025"
   link="team"
   width="400px"
