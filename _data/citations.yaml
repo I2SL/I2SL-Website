@@ -60,3 +60,744 @@
   date: '2014-10-01'
   link: https://doi.org/gq5qw4
   _cache: 55448d201e7c8ca6e4811c5040c0cc92253e0dc2b300c04fb4e040512feba093
+- id: doi:10.1364/AO.57.005483
+  title: Eavesdropping of display devices by measurement of polarized reflected light
+  authors:
+  - Yitian Ding
+  - Ronan Kerviche
+  - Amit Ashok
+  - Stanley Pau
+  publisher: Applied Optics
+  date: '2018-06-29'
+  link: https://doi.org/ghrtn6
+  _cache: 78aa33b7c8fb959fe8fcb4cfecbfdf429cef034c8063864836e77584a3d93714
+- id: doi:10.1364/OE.25.029432
+  title: Real-time robust direct and indirect photon separation with polarization
+    imaging
+  authors:
+  - Yitian Ding
+  - Amit Ashok
+  - Stanley Pau
+  publisher: Optics Express
+  date: '2017-11-10'
+  link: https://doi.org/gq8t8h
+  _cache: b6d1b9f951a4a9812b67782a1041923961a6d73e413fadd490600080177279ce
+- id: doi:10.1109/TCI.2018.2846413
+  title: Convolutional Neural Networks for Noniterative Reconstruction of Compressively
+    Sensed Images
+  authors:
+  - Suhas Lohit
+  - Kuldeep Kulkarni
+  - Ronan Kerviche
+  - Pavan Turaga
+  - Amit Ashok
+  publisher: IEEE Transactions on Computational Imaging
+  date: '2018-09-01'
+  link: https://doi.org/gq8t8j
+  _cache: 467079873e5389ca3512ee94b5aae07cd7f7843d2dcada6513503944713e7564
+- id: doi:10.1016/j.artmed.2018.09.002
+  title: 'Pathological image compression for big data image analysis: Application
+    to hotspot detection in breast cancer'
+  authors:
+  - M. Khalid Khan Niazi
+  - Y. Lin
+  - F. Liu
+  - A. Ashok
+  - M.W. Marcellin
+  - G. Tozbikian
+  - M.N. Gurcan
+  - A. Bilgin
+  publisher: Artificial Intelligence in Medicine
+  date: '2019-04-01'
+  link: https://doi.org/ggsnbm
+  _cache: 68cdb0c69ee3bbfb35069e5f20de6c6dd0f7921257bde2e18f5d965a319fdce9
+- id: doi:10.1364/AO.55.009744
+  title: Face recognition with non-greedy information-optimal adaptive compressive
+    imaging
+  authors:
+  - Liang-Chih Huang
+  - Mark A. Neifeld
+  - Amit Ashok
+  publisher: Applied Optics
+  date: '2016-11-28'
+  link: https://doi.org/gjjd9b
+  _cache: 3727940c81102da6040829ed2f6e73850889f797dea94ef09ab6c12323a271f7
+- id: doi:10.1364/AO.55.001333
+  title: Capacity of electromagnetic communication modes in a noise-limited optical
+    system
+  authors:
+  - Myungjun Lee
+  - Mark A. Neifeld
+  - Amit Ashok
+  publisher: Applied Optics
+  date: '2016-02-19'
+  link: https://doi.org/gq8t8k
+  _cache: b7a25458a6a51405c1649ae9fd9ec10de380b13218fcfa196a527cbbf9df7995
+- id: doi:10.1109/TSP.2014.2323022
+  title: Radar Target Profiling and Recognition Based on TSI-Optimized Compressive
+    Sensing Kernel
+  authors:
+  - Yujie Gu
+  - Nathan A. Goodman
+  - Amit Ashok
+  publisher: IEEE Transactions on Signal Processing
+  date: '2014-06-01'
+  link: https://doi.org/gq8t8m
+  _cache: 9a883fb81803d334bf3fcb016f021729707a640ef754ac136c0cc7adce030e97
+- id: doi:10.1364/BOE.5.001296
+  title: Cellular imaging of deep organ using two-photon Bessel light-sheet nonlinear
+    structured illumination microscopy
+  authors:
+  - Ming Zhao
+  - Han Zhang
+  - Yu Li
+  - Amit Ashok
+  - Rongguang Liang
+  - Weibin Zhou
+  - Leilei Peng
+  publisher: Biomedical Optics Express
+  date: '2014-03-31'
+  link: https://doi.org/gf4dbm
+  _cache: bf8e1ef9f168887e3c3f42bd76248d456eec9da6178869945f789e1d60cee770
+- id: doi:10.1109/ICIP.2014.7025976
+  title: Image compression based on task-specific information
+  authors:
+  - Lingling Pu
+  - Michael W. Marcellin
+  - Ali Bilgin
+  - Ami Ashok
+  publisher: 2014 IEEE International Conference on Image Processing (ICIP)
+  date: '2014-10-01'
+  link: https://doi.org/gq5qw4
+  _cache: 55448d201e7c8ca6e4811c5040c0cc92253e0dc2b300c04fb4e040512feba093
+- id: doi:10.1364/JOSAA.30.000831
+  title: 'Information optimal compressive sensing: static measurement design'
+  authors:
+  - Amit Ashok
+  - Liang-Chih Huang
+  - Mark A. Neifeld
+  publisher: Journal of the Optical Society of America A
+  date: '2013-04-10'
+  link: https://doi.org/gg7ptx
+  _cache: d2f824ff9799e22d2725c23403c832c005793a2ad38e2646bc1a5b7248359394
+- id: doi:10.1364/AO.51.000A67
+  title: "Space\u2013time compressive imaging"
+  authors:
+  - Vicha Treeaporn
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Applied Optics
+  date: '2012-01-31'
+  link: https://doi.org/fzqzjw
+  _cache: 3556bf2d805d5d9d5e03c278f9a7f39efe058fd2ba2200eda4559de02f94dcc2
+- id: doi:10.1364/JOSAA.28.001041
+  title: 'Compressive imaging: hybrid measurement basis design'
+  authors:
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Journal of the Optical Society of America A
+  date: '2011-05-17'
+  link: https://doi.org/fjs8gk
+  _cache: bdcdd9092d8f5ce14de6786a796ef9f311e18fec7d6784e00efde63b30741414
+- id: doi:10.1016/j.optcom.2010.11.028
+  title: Block-wise motion detection using compressive imaging system
+  authors:
+  - Jun Ke
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Optics Communications
+  date: '2011-03-01'
+  link: https://doi.org/c2rrf3
+  _cache: 83964eaa96bc2f8244bc7f3132078a8c99757bc680666aee156b9969d94c8b6c
+- id: doi:10.1364/OE.18.022432
+  title: Increased field of view through optical multiplexing
+  authors:
+  - Vicha Treeaporn
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Optics Express
+  date: '2010-10-08'
+  link: https://doi.org/dwgxg4
+  _cache: 6cad7b86a65f6377acc77622547602251b09fca3bbb6711c5851f49f79c838c7
+- id: doi:10.1364/AO.49.000H27
+  title: Object reconstruction from adaptive compressive measurements in feature-specific
+    imaging
+  authors:
+  - Jun Ke
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Applied Optics
+  date: '2010-10-19'
+  link: https://doi.org/c8vnvr
+  _cache: d66c1d9ea87f95e64b9821971e3adff94603368812d0f06f703c20c82e0413f4
+- id: doi:10.1364/AO.49.000B26
+  title: Point spread function engineering for iris recognition system design
+  authors:
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Applied Optics
+  date: '2010-02-19'
+  link: https://doi.org/cmqg85
+  _cache: 78d97fe253eb734323a80e336613e2610761d74cfb929769ecba78d96e184b62
+- id: doi:10.1364/AO.47.004457
+  title: Compressive imaging system design using task-specific information
+  authors:
+  - Amit Ashok
+  - Pawan K. Baheti
+  - Mark A. Neifeld
+  publisher: Applied Optics
+  date: '2008-08-21'
+  link: https://doi.org/chj5q3
+  _cache: 7dca06d2e413c6aa509b462bd90e3e377b441c823c203ceaf7aa5d028b3c25b3
+- id: doi:10.1364/JOSAA.24.000B25
+  title: Task-specific information for imaging system analysis
+  authors:
+  - Mark A. Neifeld
+  - Amit Ashok
+  - Pawan K. Baheti
+  publisher: Journal of the Optical Society of America A
+  date: '2007-09-26'
+  link: https://doi.org/dw2c4m
+  _cache: 3329506582b71733b561e9eabc142127bd74455f4cbd1f41f4c59bb8b1819d7a
+- id: doi:10.1364/AO.46.002256
+  title: Pseudorandom phase masks for superresolution imaging from subpixel shifting
+  authors:
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Applied Optics
+  date: '2007-04-03'
+  link: https://doi.org/cj4qcc
+  _cache: 89bea2336d5bacc42210cd6e197c6003959b0018d0e70d1f31fc620df674042b
+- id: doi:10.1364/OE.11.002153
+  title: Information-based analysis of simple incoherent imaging systems
+  authors:
+  - Amit Ashok
+  - Mark Neifeld
+  publisher: Optics Express
+  date: '2003-09-08'
+  link: https://doi.org/fjcp43
+  _cache: 209a6d42a28677b909447cdec9131dc946cf80d40ec28e71af5fa777083e8a26
+- id: doi:10.1117/12.2529956
+  title: Passive indirect diffuse imaging
+  authors:
+  - Shu Yang
+  - Kwan K. Lee
+  - Amit Ashok
+  publisher: Wavelets and Sparsity XVIII
+  date: '2019-09-09'
+  link: https://doi.org/gq8t8q
+  _cache: 764c0133f1d7b2395ec7957d86f3a8e1d8edabdf064802da0df1cf3bac10012a
+- id: doi:10.1117/12.2528540
+  title: 'Surpassing Rayleigh limit: Fisher information analysis of partially coherent
+    source(s)'
+  authors:
+  - Kwan K. Lee
+  - Amit Ashok
+  publisher: Optics and Photonics for Information Processing XIII
+  date: '2019-09-06'
+  link: https://doi.org/gq8t8r
+  _cache: c1b76823d2735314a1371805a4509c18333766961d26c4d6e1003a40b5c77e6e
+- id: doi:10.1117/12.2518781
+  title: Motivations and methods for the analysis of multi-modality x-ray systems
+    for explosives detection
+  authors:
+  - Joshua Carpenter
+  - Yijun Ding
+  - Ava Hurlock
+  - David Coccarelli
+  - Christopher Gregory
+  - Souleymane O. Diallo
+  - Amit Ashok
+  - Michael E. Gehm
+  - Joel A. Greenberg
+  publisher: Anomaly Detection and Imaging with X-Rays (ADIX) IV
+  date: '2019-05-14'
+  link: https://doi.org/gq8t8s
+  _cache: a4fe07c535c6fa83132461551643fcf321bb9b4ed2c92c86ec0d9579f2140c81
+- id: doi:10.1117/12.2519812
+  title: Information-theoretic analysis of fixed Gantry x-ray computed tomography
+    transmission system for threat detection (Conference Presentation)
+  authors:
+  - Jay Voris
+  - Yijun Ding
+  - Ratchaneekorn Thamvichai
+  - Joel A. Greenberg
+  - David Coccarelli
+  - Michael E. Gehm
+  - Eric Johnson
+  - Carl Bosch
+  - Amit Ashok
+  publisher: Anomaly Detection and Imaging with X-Rays (ADIX) IV
+  date: '2019-05-14'
+  link: https://doi.org/gq8t8v
+  _cache: bf9426a2897f3e8102370d5dec7065535cfcb42e66754915e0f14624c877a075
+- id: doi:10.1117/12.2518552
+  title: X-ray measurement model and information-theoretic metric incorporating material
+    variability with energy correlations
+  authors:
+  - Yijun Ding
+  - Amit Ashok
+  publisher: Anomaly Detection and Imaging with X-Rays (ADIX) IV
+  date: '2019-05-14'
+  link: https://doi.org/gq8t8w
+  _cache: b94b51ff50a9c8c1af15001c6b2efb2c754a227c91bc0f3fc1f922e36c3decf1
+- id: doi:10.1117/12.2519600
+  title: Multiplexed measurement design for fixed Gantry x-ray computed tomography
+    system (Conference Presentation)
+  authors:
+  - Ahmad Masoudi
+  - Amit Ashok
+  publisher: Anomaly Detection and Imaging with X-Rays (ADIX) IV
+  date: '2019-05-14'
+  link: https://doi.org/gq8t8x
+  _cache: 703105a2fbf909b9b6335a586b963c228feb167faebf719c4585f64835b51eec
+- id: doi:10.1109/DCC.2019.00104
+  title: Perception-Optimized Encoding for Visually Lossy Image Compression
+  authors:
+  - Yuzhang Lin
+  - Feng Liu
+  - Miguel Hernandez-Cabronero
+  - Eze Ahanonu
+  - Michael Marcellin
+  - Ali Bilgin
+  - Amit Ashok
+  publisher: 2019 Data Compression Conference (DCC)
+  date: '2019-03-01'
+  link: https://doi.org/gq8t82
+  _cache: 8ed47bc26e0c3b184f0f9db993a93f8d690fe19dc18b4da60ba515c787eb4222
+- id: doi:10.1109/DCC.2018.00076
+  title: 'Task-Based JPEG 2000 Image Compression: An Information-Theoretic Approach'
+  authors:
+  - Yuzhang Lin
+  - Ashok Amit
+  - Michael Marcellin
+  - Ali Bilgin
+  publisher: 2018 Data Compression Conference
+  date: '2018-03-01'
+  link: https://doi.org/gq8t83
+  _cache: b7cdcd26e4ce8b182eb07a23817e5dcc4656d9f3409d5954833c1f58e9073bed
+- id: doi:10.1109/DCC.2018.00077
+  title: A Visual Discrimination Model for JPEG2000 Compression
+  authors:
+  - Feng Liu
+  - Yuzhang Lin
+  - Miguel Hernandez-Cabronero
+  - Eze Ahanonu
+  - Michael W. Marcellin
+  - Amit Ashok
+  - Ali Bilgin
+  publisher: 2018 Data Compression Conference
+  date: '2018-03-01'
+  link: https://doi.org/gq8t84
+  _cache: 3370bda0abab325bc53d1d2e669c781bf93c573115af5af4df4f5ad42d39a2dd
+- id: doi:10.1117/12.2307242
+  title: X-ray measurement model and information-theoretic system metric incorporating
+    material variability (Conference Presentation)
+  authors:
+  - Ahmad Masoudi
+  - Jay Voris
+  - David Coccarelli
+  - Joel A. Greenberg
+  - Michael Gehm
+  - Amit Ashok
+  publisher: Anomaly Detection and Imaging with X-Rays (ADIX) III
+  date: '2018-05-14'
+  link: https://doi.org/gq8t85
+  _cache: 03f0133af35f3a1865648bd22c19720dd90755bf6e6b60ec6d67cd1196d9023f
+- id: doi:10.1117/12.2305227
+  title: An information theoretic approach to system optimization accounting for material
+    variability
+  authors:
+  - David Coccarelli
+  - Jay Voris
+  - Joel A. Greenberg
+  - Amit Ashok
+  - Michael Gehm
+  - Ahmad Masoudi
+  - Thamvichai Ratchaneekorn
+  publisher: Anomaly Detection and Imaging with X-Rays (ADIX) III
+  date: '2018-06-14'
+  link: https://doi.org/gq8t86
+  _cache: 41c97568744a7cfe3b856c29d33bd686522778e1693e8eeb934cba2f92ea7cc0
+- id: doi:10.1117/12.2309509
+  title: Deep learning based sparse view x-ray CT reconstruction for checked baggage
+    screening
+  authors:
+  - Amit Ashok
+  - Ali Bilgin
+  - Sagar Mandava
+  publisher: Anomaly Detection and Imaging with X-Rays (ADIX) III
+  date: '2018-04-27'
+  link: https://doi.org/gq8t87
+  _cache: b2aa6dcb989dd39a6cc0cf22b7a3b3f7bfbe57a0be9a0bf116882ad6e0bce52d
+- id: doi:10.1364/COSI.2017.CW4B.5
+  title: Achieving the Ultimate Limit of Two Point Resolution by Computational Imaging
+  authors:
+  - Ronan Kerviche
+  - Saikat Guha
+  - Amit Ashok
+  publisher: Imaging and Applied Optics 2017 (3D, AIO, COSI, IS, MATH, pcAOP)
+  date: '2017-01-01'
+  link: https://doi.org/gq8t88
+  _cache: 8a996c111e5eb90d54aa39fcc872c1cb4e08c4f4bcf937753342101544b0198a
+- id: doi:10.1117/12.2265491
+  title: Image reconstruction for view-limited x-ray CT in baggage scanning
+  authors:
+  - Sagar Mandava
+  - David Coccarelli
+  - Joel A. Greenberg
+  - Michael E. Gehm
+  - Amit Ashok
+  - Ali Bilgin
+  publisher: Anomaly Detection and Imaging with X-Rays (ADIX) II
+  date: '2017-05-01'
+  link: https://doi.org/gq8t89
+  _cache: 7ecb633e79c806d3869fb9aca06dd0671128763611fe8667d0643e7d8fb78678
+- id: doi:10.1117/12.2263033
+  title: Creating an experimental testbed for information-theoretic analysis of architectures
+    for x-ray anomaly detection
+  authors:
+  - David Coccarelli
+  - Joel A. Greenberg
+  - Sagar Mandava
+  - Qian Gong
+  - Liang-Chih Huang
+  - Amit Ashok
+  - Michael E. Gehm
+  publisher: Anomaly Detection and Imaging with X-Rays (ADIX) II
+  date: '2017-05-01'
+  link: https://doi.org/gq8t9c
+  _cache: 613b0005d0635718d93adca84e8197af85b0db86e26b96f37e6f68d5e2e1a404
+- id: doi:10.1109/DCC.2017.78
+  title: Visibility Thresholds in Reversible JPEG2000 Compression
+  authors:
+  - Feng Liu
+  - Eze Ahanonu
+  - Michael W. Marcellin
+  - Yuzhang Lin
+  - Amit Ashok
+  - Ali Bilgin
+  publisher: 2017 Data Compression Conference (DCC)
+  date: '2017-04-01'
+  link: https://doi.org/gq8t9d
+  _cache: c87bd9fe23f53fb4ffb44b2a5e5b75ca6d729b624a1fa7e5ddfde282c99e244f
+- id: doi:10.1109/ISIT.2017.8006566
+  title: Fundamental limit of resolving two point sources limited by an arbitrary
+    point spread function
+  authors:
+  - Ronan Kerviche
+  - Saikat Guha
+  - Amit Ashok
+  publisher: 2017 IEEE International Symposium on Information Theory (ISIT)
+  date: '2017-06-01'
+  link: https://doi.org/ggrb8t
+  _cache: 2ea803e72c339ba32e6721d384a62fc09be6431711ca85b8b2712c991e3de6e5
+- id: doi:10.1117/12.2238411
+  title: Visibility thresholds for visually lossy JPEG2000
+  authors:
+  - Feng Liu
+  - Yuzhang Lin
+  - Eze L. Ahanonu
+  - Michael W. Marcellin
+  - Amit Ashok
+  - Elizabeth A. Krupinski
+  - Ali Bilgin
+  publisher: Applications of Digital Image Processing XXXIX
+  date: '2016-09-28'
+  link: https://doi.org/gq8t9f
+  _cache: 3f8585de94c64f60cde14d6dcbda417e45ea9d3d1b8a5d38dc287509238f88a9
+- id: doi:10.1117/12.2223803
+  title: Information-theoretic analysis of x-ray photoabsorption based threat detection
+    system for check-point
+  authors:
+  - Yuzhang Lin
+  - Genevieve G. Allouche
+  - James Huang
+  - Amit Ashok
+  - Qian Gong
+  - David Coccarelli
+  - Razvan-Ionut Stoian
+  - Michael E. Gehm
+  publisher: SPIE Proceedings
+  date: '2016-05-12'
+  link: https://doi.org/gq8t9g
+  _cache: 62282f3d44ad61bda5d348f5a84cbe585639775efdf34ae911a2447f27ff365e
+- id: doi:10.1117/12.2223175
+  title: Information-theoretic analysis of x-ray scatter and phase architectures for
+    anomaly detection
+  authors:
+  - David Coccarelli
+  - Qian Gong
+  - Razvan-Ionut Stoian
+  - Joel A. Greenberg
+  - Michael E. Gehm
+  - Yuzhang Lin
+  - Liang-Chih Huang
+  - Amit Ashok
+  publisher: SPIE Proceedings
+  date: '2016-05-12'
+  link: https://doi.org/gq8t9h
+  _cache: cbda20940a92455e7add3504bd53fe57851fd67cde923f22f675bf841f6ca55b
+- id: doi:10.1117/12.2223784
+  title: Information optimal compressive x-ray threat detection
+  authors:
+  - James Huang
+  - Amit Ashok
+  publisher: SPIE Proceedings
+  date: '2016-05-12'
+  link: https://doi.org/gq8t9j
+  _cache: 2ecda40a0d80daca44ea9e8b86c3343e24955de2a4ee440ac23e17a8b9b2ce80
+- id: doi:10.1117/12.2228570
+  title: Scalable information-optimal compressive target recognition
+  authors:
+  - Ronan Kerviche
+  - Amit Ashok
+  publisher: SPIE Proceedings
+  date: '2016-05-20'
+  link: https://doi.org/gq8t9m
+  _cache: aef05b99ba91ef15e7363b16eb93f5b1304b75d12fb3bfd727de0204e6ab027a
+- id: doi:10.1109/DCC.2015.76
+  title: Compression Based on a Joint Task-Specific Information Metric
+  authors:
+  - Lingling Pu
+  - Michael W. Marcellin
+  - Ali Bilgin
+  - Amit Ashok
+  publisher: 2015 Data Compression Conference
+  date: '2015-04-01'
+  link: https://doi.org/gq8t9n
+  _cache: 53911bc2eb60a59ae3529e29806de93cfc3ed467b055eaaca4e1ca024eed0837
+- id: doi:10.1364/AOMS.2015.JT5A.37
+  title: Measurement Quantization and Rate Allocation in Compressive Imaging and Image
+    Compression
+  authors:
+  - Yuzhang Lin
+  - Amit Ashok
+  publisher: Imaging and Applied Optics 2015
+  date: '2015-01-01'
+  link: https://doi.org/gq8t9p
+  _cache: f252ca0e2b0c32d52c4f7bc47d3c98912258067766a5ba967e5871e7b0d401b8
+- id: doi:10.1364/COSI.2014.CM2D.2
+  title: Information-optimal Scalable Compressive Imaging System
+  authors:
+  - Ronan Kerviche
+  - Nan Zhu
+  - Amit Ashok
+  publisher: Classical Optics 2014
+  date: '2014-01-01'
+  link: https://doi.org/gg7p29
+  _cache: 1a2f28de7a93e63398d8d04b887b2729dcc7a70ad5ebfa3421645a9dbdf76e6a
+- id: doi:10.1109/ICIP.2014.7025976
+  title: Image compression based on task-specific information
+  authors:
+  - Lingling Pu
+  - Michael W. Marcellin
+  - Ali Bilgin
+  - Ami Ashok
+  publisher: 2014 IEEE International Conference on Image Processing (ICIP)
+  date: '2014-10-01'
+  link: https://doi.org/gq5qw4
+  _cache: 55448d201e7c8ca6e4811c5040c0cc92253e0dc2b300c04fb4e040512feba093
+- id: doi:10.1109/ICIP.2014.7025439
+  title: Information optimal scalable compressive imager demonstrator
+  authors:
+  - Ronan Kerviche
+  - Nan Zhu
+  - Amit Ashok
+  publisher: 2014 IEEE International Conference on Image Processing (ICIP)
+  date: '2014-10-01'
+  link: https://doi.org/gq8t9q
+  _cache: a193b426f8ef08d66845140bc9e1b694dfc6693ebbf80e9866b77290e1012bb6
+- id: doi:10.1117/12.2063947
+  title: 'Information optimal compressive imaging: design and implementation'
+  authors:
+  - Amit Ashok
+  - James Huang
+  - Yuzhang Lin
+  - Ronan Kerviche
+  publisher: SPIE Proceedings
+  date: '2014-10-20'
+  link: https://doi.org/gq8t9s
+  _cache: ccf6c7162d8418a95fcfdc0b6fed340ec6fa7ff52a14e6b9dcf226c318abb440
+- id: doi:10.1109/ACSSC.2013.6810387
+  title: 'Non-greedy adaptive compressive imaging: A face recognition example'
+  authors:
+  - James L. Huang
+  - Mark A. Neifeld
+  - Amit Ashok
+  publisher: 2013 Asilomar Conference on Signals, Systems and Computers
+  date: '2013-11-01'
+  link: https://doi.org/gq8t9t
+  _cache: 96d8cc6b5309aecc67ede1cc413cc970aeb8036682d1e5883d9524a7cbd15fe7
+- id: doi:10.1364/COSI.2013.CM4C.6
+  title: Compressive Light Field Imaging Using Joint Spatio-Angular Modulation
+  authors:
+  - Basel Salahieh
+  - Amit Ashok
+  - Mark Neifeld
+  publisher: Imaging and Applied Optics
+  date: '2013-01-01'
+  link: https://doi.org/gq8t9v
+  _cache: 3f9b2f49a21afb0881d6e01c955f3a27717c01bdc8512cb6b00327e9541f2ad4
+- id: doi:10.1364/COSI.2013.CM1C.4
+  title: Compressive Stereo Cameras for Computing Disparity Maps
+  authors:
+  - Vicha Treeaporn
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Imaging and Applied Optics
+  date: '2013-01-01'
+  link: https://doi.org/gq8t9w
+  _cache: 426f53dcb59e9c9464a3df1c2c55191b40148135a7f81dd48cdcd84188880b60
+- id: doi:10.1364/COSI.2013.CW4C.4
+  title: A Joint-Design Approach for Extended Depth of Field Imaging
+  authors:
+  - Ronan Kerviche
+  - Amit Ashok
+  publisher: Imaging and Applied Optics
+  date: '2013-01-01'
+  link: https://doi.org/gq8t9x
+  _cache: 087945e0e568f75d3f947350c7146daaeeb2966b3cc253eaced0e8863fa845a4
+- id: doi:10.1117/12.919561
+  title: Compressive sensing of frequency-hopping spread spectrum signals
+  authors:
+  - Feng Liu
+  - Yookyung Kim
+  - Nathan A. Goodman
+  - Amit Ashok
+  - Ali Bilgin
+  publisher: Compressive Sensing
+  date: '2012-06-01'
+  link: https://doi.org/gq8t9z
+  _cache: 5ecff84bbfdbf5b562166b8a3ff19944e2c250401c6ac9e6b67409187ab1457e
+- id: doi:10.1364/COSI.2012.CM4B.3
+  title: Dynamically Programmable, Dual-Band Computational Imaging System
+  authors:
+  - Brant M. Kaylor
+  - Amit Ashok
+  - Eric M. Seger
+  - Charlie J. Keith
+  - Randy R. Reibel
+  publisher: Imaging and Applied Optics Technical Papers
+  date: '2012-01-01'
+  link: https://doi.org/gq8t92
+  _cache: 4e6790752ff9ca195d7bd7d8d2bb04d790f246abd5c6e3d3ab3b55f2d5d9b3e2
+- id: doi:10.1109/ACSSC.2011.6190217
+  title: Information-optimal adaptive compressive imaging
+  authors:
+  - Amit Ashok
+  - James L. Huang
+  - Mark A. Neifeld
+  publisher: 2011 Conference Record of the Forty Fifth Asilomar Conference on Signals,
+    Systems and Computers (ASILOMAR)
+  date: '2011-11-01'
+  link: https://doi.org/gg7ptv
+  _cache: b323281b7851dd5f198c6ff604a845c1e22b8d4f8a032100eb4482604c83de5d
+- id: doi:10.1117/12.894367
+  title: Compressive light field imaging with weighted random projections
+  authors:
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: SPIE Proceedings
+  date: '2011-09-08'
+  link: https://doi.org/dxch3r
+  _cache: 434a983070178a9f72ecc435c2bb52c69b8b4d0a18c355b41f240c1302a1ef44
+- id: doi:10.1364/COSI.2011.CMA3
+  title: Adaptive Compressive Imaging via Sequential Parameter Estimation
+  authors:
+  - Amit Ashok
+  - Mark Neifeld
+  publisher: Imaging and Applied Optics
+  date: '2011-01-01'
+  link: https://doi.org/gq8t93
+  _cache: c2af0eb432e747d8f0e3dd9c3abda1f6624b3754dacd117a00522cffd9c7c43c
+- id: doi:10.1117/12.884440
+  title: Space-time feature-specific imaging
+  authors:
+  - Vicha Treeaporn
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: SPIE Proceedings
+  date: '2011-05-13'
+  link: https://doi.org/bdz254
+  _cache: da9661876a42bd6ed29eef548ee3fb72c1b82963a43d75f7628ddf4d3dfe7814
+- id: doi:10.1117/12.861738
+  title: Adaptive compressive imaging for object reconstruction
+  authors:
+  - Jun Ke
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: SPIE Proceedings
+  date: '2010-08-19'
+  link: https://doi.org/fbnkzr
+  _cache: 598cf9afb0e5e0386fad7db777e1d6d625df6b206422591049ef89757f150ab5
+- id: doi:10.1364/IS.2010.IWD3
+  title: 'Compressive Imaging: Hybrid Projection Design'
+  authors:
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Imaging Systems
+  date: '2010-01-01'
+  link: https://doi.org/gq8t94
+  _cache: 6bbeca6ecbb7f6c84947ac5ec70fa3f4cf342eac0186707cb76cbaf9ec326de1
+- id: doi:10.1117/12.852738
+  title: Compressive light field imaging
+  authors:
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: SPIE Proceedings
+  date: '2010-04-23'
+  link: https://doi.org/fmgj3q
+  _cache: a0a27d296ec56590520004b52e6115a0f88a379dd47e8bf5e7bfd936ce601837
+- id: doi:10.1364/IS.2010.IMC4
+  title: Increased field of view through optical multiplexing
+  authors:
+  - Vicha Treeaporn
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: Imaging Systems
+  date: '2010-01-01'
+  link: https://doi.org/gq8t95
+  _cache: 76807a07d2376af2273e1685952ca014cf8fb37beaed303f0bc64f94989f71c0
+- id: doi:10.1117/12.720878
+  title: 'Task-specific information: an imaging system analysis tool'
+  authors:
+  - Amit Ashok
+  - Pawan K. Baheti
+  - Mark A. Neifeld
+  publisher: Visual Information Processing XVI
+  date: '2007-04-27'
+  link: https://doi.org/d8cw2n
+  _cache: 1f537323bca31faa5f910335148111a1c352c55c22ecb15aa37af4831459b4e1
+- id: doi:10.1117/12.668280
+  title: Recent progress on multidomain optimization for ultrathin cameras
+  authors:
+  - Amit Ashok
+  - Mark A. Neifeld
+  publisher: SPIE Proceedings
+  date: '2006-05-05'
+  link: https://doi.org/drh4sx
+  _cache: e4c58365a77f0caec9f36f0efc6698819d23f6e43ec327a4d776d079d97f8d20
+- id: doi:10.1364/COSI.2005.CMB1
+  title: 'Imaging Using Alternate Point Spread Functions: Lenslets with Pseudo-Random
+    Phase Diversity'
+  authors:
+  - Mark A. Neifeld
+  - Amit Ashok
+  publisher: 'Adaptive Optics: Analysis and Methods/Computational Optical Sensing
+    and Imaging/Information Photonics/Signal Recovery and Synthesis Topical Meetings
+    on CD-ROM'
+  date: '2005-01-01'
+  link: https://doi.org/gq8t98
+  _cache: bb0bdc2faa43da3d8ee3e462325219e44fedd4c2312592d51f5791e7128ce4b9
+- id: doi:10.1109/IGARSS.2001.977902
+  title: 'Topographic mapping with multiple antenna SAR interferometry: a Bayesian
+    model-based approach'
+  authors:
+  - A. Ashok
+  - A.J. Wilkinson
+  publisher: IGARSS 2001. Scanning the Present and Resolving the Future. Proceedings.
+    IEEE 2001 International Geoscience and Remote Sensing Symposium (Cat. No.01CH37217)
+  date: ''
+  link: https://doi.org/c9vhkk
+  _cache: c595fc076609ea0dc138184f319a7fe9efd59989c94a45eeac8673e2056e4aa8
