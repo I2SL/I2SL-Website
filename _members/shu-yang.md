@@ -1,7 +1,7 @@
 ---
 name: Shu Yang
 image: images/headshots/shu-yang.jpeg
-description: Professor
+description: Researcher
 role: phd
 status: former
 links:
