@@ -7,4 +7,4 @@ status: former
 links:
   email: josephcox@arizona.edu
 ---
-**Interests:** neuromorphic cameras, object tracking,
+**Interests:** neuromorphic cameras, object tracking.
