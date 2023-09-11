@@ -19,11 +19,11 @@ In joining this lab, you commit to:
 ## Getting Started
 1. Join the group Slack
 2. Create a [GitHub account](https://github.com)
-3. {%
+3. Identify a project you would like to work on from our {%
   include link.html
   link="research"
-  text="Identify a project"
-%} you would like to work on
+  text="ongoing projects."
+%} or propose a new project to Dr. Ashok.
 4. Request invitation as a collaborator on you project's repository
 
 {%
