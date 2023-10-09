@@ -17,7 +17,7 @@ More specifically, the overarching theme of our research group is to develop sca
 
 {% capture text %}
 Natural scenes are often sparse in a wavelet basis. We are employing a multi-parameter adaptive Bayesian measurement strategy to estimate the wavelet coefficients of sub-rayleigh features with imposed sparsity priors.
-Our algorithm exercises an electro-optical feedback loop wherein we sort the optical field into a set of orthogonal spatial modes and subsequently count the number of photons detected in each mode.
+Our algorithm exercises a measurement feedback loop wherein we sort the optical field into a set of orthogonal spatial modes and subsequently count the number of photons detected in each mode.
 At each adaptation our algorithm supplies a spatial modal basis that minimizes the joint mean-square-error of all the estimation parameters.
 
 {%
@@ -38,10 +38,8 @@ At each adaptation our algorithm supplies a spatial modal basis that minimizes t
   text=text
 %}
 
-
 {% capture text %}
-Event-based sensors register changes in intensity over time. Sensor readouts therefore measure the temporal derivative of the scene intensity without the need for video post-processing.
-Such features are particularly promising for tracking tasks with low bandwidth and low latency constraints. We are developing information-optimal object tracking algorithms for event-based sensors.
+The 2023 published Hybrid Event and Frame-based System for Target Detection, Tracking, and Identification is being modified to simultaneous UAV detection, tracking, and identification. The system leverages the change detection ability of the Event-Based Sensor (EBS), with relatively low read-out bandwidth for the Unmanned Aerial Vehicle (UAV) target detection task within a wide FoV. The frame-based sensor with a narrow FoV provides high spatial resolution images of the target, enabling real-time target identification with a convolutional neural network (CNN). We are testing multiple-size YOLO CNN image classification models to detect, track, and identify multiple UAVs within a given scene.
 
 {%
   include link.html
@@ -55,9 +53,31 @@ Such features are particularly promising for tracking tasks with low bandwidth a
 
 {%
   include feature.html
+  image="images/research/"
+  link="research"
+  title="Multi-Target Hybrid Event and Frame-Based Drone Identification"
+  text=text
+%}
+
+
+{% capture text %}
+Combining event-based and rolling shutter data may offer several order-of-magnitude enhancement in temporal-spatial resolution for video than alternative global shutter systems of similar cost can produce. Since interpolation is computationally demanding for high resolution sensors, we are developing artificial neural networks that may provide a means of encoding and matching the feature vectors from both cameras. We investigate how such a technique can be applied to wavefront sensing applications to enhance signal reconstruction of the sampled wavefronts.
+
+{%
+  include link.html
+  type="github"
+  link="I2SL/"
+  text="Project Repository"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
   image="images/"
   link="research"
-  title="Object Tracking with Event-Based Sensors"
+  title="Optical Temporal Super-Resolution in Wavefront Sensing"
   text=text
 %}
 
