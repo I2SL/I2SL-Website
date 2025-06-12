@@ -1,6 +1,6 @@
 ---
 name: Shaurya Chauhan
-image: images/headshots/trevor-schlack.jpeg
+image: images/headshots/shaurya-chauhan.jpeg
 description: Researcher
 role: undergrad
 status: current
