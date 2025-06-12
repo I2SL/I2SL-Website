@@ -2,7 +2,7 @@
 name: Caleb Cook
 image: images/headshots/caleb-cook.jpeg
 description: Researcher
-role: undergrad
+role: phd
 status: current
 links:
 email: calebcook@arizona.edu

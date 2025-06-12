@@ -2,7 +2,7 @@
 name: Logan Pawlowski
 image: images/headshots/logan-pawlowski.jpeg
 description: Researcher
-role: undergrad
+role: phd
 status: current
 links:
   email: loganpawlowski@arizona.edu
